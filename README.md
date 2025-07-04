@@ -1,5 +1,4 @@
-# DRANet-SWD
-### Submitted to SMC 2025
+# DRANet-SWD — SMC 2025
 ### An Improvement to [DRANet](https://github.com/Seung-Hun-Lee/DRANet) using [Sliced Wasserstein Discrepancy](https://github.com/apple/ml-cvpr2019-swd)
 ### 
 ## Requirements
