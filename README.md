@@ -18,6 +18,7 @@ Download [MNIST-M](https://github.com/fungtion/DANN), [Cityscapes](https://www.c
 ├── data
       ├── MNIST
       ├── USPS
+      ├── SVHN
       ├── mnist_m
             ├── mnist_m_train
                       ├── *.png
