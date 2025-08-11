@@ -1,6 +1,6 @@
 # DRANet-SWD — SMC 2025
+### Implementation of our paper: [Sliced Wasserstein Discrepancy in Disentangling Representation and Adaptation Networks for Unsupervised Domain Adaptation](https://arxiv.org/abs/2504.03043)
 ### An Improvement to [DRANet](https://github.com/Seung-Hun-Lee/DRANet) using [Sliced Wasserstein Discrepancy](https://github.com/apple/ml-cvpr2019-swd)
-### 
 ## Requirements
 ```
 Pytorch 2.6.0
@@ -74,3 +74,4 @@ You can see all the results of each experiment on tensorboard.
 ```
 CUDA_VISIBLE_DEVICES=-1 tensorboard --logdir tensorboard --bind_all
 ```
+
